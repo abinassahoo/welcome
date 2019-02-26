@@ -1,2 +1,2 @@
-FROM Busybox:latest
+FROM busybox:latest
 CMD ['echo', 'Hello World !']
