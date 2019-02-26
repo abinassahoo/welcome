@@ -1,2 +1,2 @@
 FROM busybox:latest
-CMD ['echo', 'Hello World !']
+RUN sh -c 'echo Hello World !'
